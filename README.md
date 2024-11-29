@@ -83,25 +83,14 @@ Copy code
 └── README.md  
 
 
+
 🚀 Getting Started
 Prerequisites
 Python 3.7+
 Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/world-dev-data-analysis.git  
-cd world-dev-data-analysis  
-Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt  
-Run the Project
-Execute the Jupyter Notebook or Python scripts in the src folder.
-Results and visualizations can be found in the results folder.
+ 
 💡 What I Learned
 This project strengthened my skills in:
 
